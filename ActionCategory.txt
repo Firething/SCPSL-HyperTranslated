@@ -1,8 +1,8 @@
-Jogabilidade
-Armas
-Movimento
-Atalhos
-Comunicações
-Sistema
-Não-vinculável
+Jogar
+Pequeno
+Tentar
+Fita
+Razão
+Arranjo
+Desconhecido
 SCP-079
