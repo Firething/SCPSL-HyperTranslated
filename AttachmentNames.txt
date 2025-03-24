@@ -1,46 +1,46 @@
-Nenhum~Opção padrão sem nenhum efeito aparente.
-Mira de Fábrica~Um par de marcadores de alinhamento que compõem um dispositivo de mira simples e leve.
-Mira Puntiforme~Mira de reflexo sem ampliação com um pequeno ponto iluminado indicando onde mirar.
-Mira Holográfica~Mira sem ampliação com um retículo holográfico. Eficaz em combate à curta distância.
-Mira de Visão Noturna~Mira telescópica acrescentada com um dispositivo de visão noturna.\n Pesada, mas efetiva em todas as condições de iluminação.
-Mira com Contador de Munição~Mira de fábrica integrada com um dispositivo contador de munição.
-Mira Telescópica~Dispositivo de mira pesado que fornece ampliação óptica.\n Perfeito para longas distâncias, mas limita a percepção geral.
-Coronha Padrão~Coronha regular que garante um melhor controle da arma de fogo ao mirar.
-Coronha Estendida~Fornece um melhor controle da arma de fogo ao mirar, mas aumenta o tempo para equipar.
-Coronha Retrátil~Torna a arma de fogo mais compacta, o que aumenta a mobilidade.
-Coronha Leve~Reduz o peso da arma de fogo, mas faz com que seja mais difícil de controlar o coice ao mirar.
-Coronha Pesada~O peso maior diminui a mobilidade, porém faz com que a arma de fogo fique mais estável ao mirar.
-Coronha Redutora de Coice~Coronha equipada com um sistema que tenta dispersar a força entre os tiros individuais.
-Empunhadura~Empunhadura vertical frontal. Deixa mais fácil de lidar com o coice da boca.
-Mira Laser~Fornece um ponto de referência visual sobre o alvo, o que ajuda a atirar sem mirar,\n mas pode facilmente revelar sua posição.
-Lanterna~Fonte de luz ativável. Aumenta o peso total da arma de fogo,\n mas pode ser um salva-vidas em áreas escuras.
-Contador de Munição~Dispositivo contador de munição. Tecnologia experimental que se provou útil,\n especialmente com pentes de alta capacidade.
-Cano Padrão~Cano convencional sem dispositivo de boca.
-Cano Estendido~Melhora o poder de fogo no geral,\n mas contribui para a baixa mobilidade causada pelo aumento do peso e comprimento da arma.
-Silenciador~Supressor de ruído. Reduz o barulho dos tiros,\n mas aumenta o peso e o comprimento da arma de fogo no geral.
-Corta-chamas~Elimina a luz emitida pela boca da arma. Torna mais fácil de atirar na escuridão.
-Freio de Boca~Compensador de coice. Utiliza gases propulsores para reduzir o coice,\n mas aumenta a intensidade acústica dos tiros.
-Reforço de Boca~Aumenta a cadência dos tiros, o que resulta em mais dano por segundo,\n mas a arma se torna mais difícil de controlar.
-Pente FMJ~Pente padrão que contém balas com revestimento de metal completo.
-Pente AP~Pente padrão que contém balas que penetram armaduras.
-Pente JHP~Pente padrão que contém balas de ponta oca.
-Pente FMJ Estendido~Pente estendido que contém balas com revestimento de metal completo.
-Pente AP Estendido~Pente estendido que contém balas que penetram armaduras.
-Pente JHP Estendido~Pente estendido que contém balas de ponta oca.
-Tambor FMJ~Pente com tambor de alta capacidade que contém balas com revestimento de metal completo.
-Tambor AP~Pente com tambor de alta capacidade que contém balas que penetram armaduras.
-Tambor JHP~Pente com tambor de alta capacidade que contém balas de ponta oca.
-Pente FMJ de Baixa Cap.~Pente de baixa capacidade que contém balas com revestimento de metal completo.
-Pente AP de Baixa Cap.~Pente de baixa capacidade que contém balas que penetram armaduras.
-Pente JHP de Baixa Cap.~Pente de baixa capacidade que contém balas de ponta oca.
-Cilindro de 5-Tiros~Possui menos cartuchos, mas é capaz de infligir mais dano a inimigos com armadura.
-Cilindro de 6-Tiros~Os clássicos seis tiros.
-Cilindro de 7-Tiros~Cheio de cartuchos parecidos aos de uma espingarda. Eficiente em menores distâncias.
-Receptor da Carabina~Receptor regular superior da carabina que é considerado\n uma boa harmonização entre poder de fogo e mobilidade.
-Receptor do Rifle~Receptor superior de tamanho maior que aumenta o poder de fogo e a precisão,\n mas um sistema de gás pesado reduz a cadência dos tiros.
-Cano Curto~Versão menor do cano padrão, usada para melhorar a velocidade de manejo e mobilidade.
-Estrangulador~Aumenta o raio de dispersão, mas melhora a consistência do padrão.
-Cano Estendido~Reduz um pouco o raio de dispersão, mas aumenta o peso e comprimento da arma.
-Sem Coronha~Configurações curtas vêm com grande mobilidade,\n mas remover a coronha de um rifle com alto coice torna muito difícil de mirar eficientemente.
-Sistema de Disparo Único~Sistema padrão. Um puxão de gatilho causa um único disparo.
-Sistema de Disparo Duplo~Mecanismo de gatilho modificado que aciona os dois gatilhos com um único puxão.
+Não há força~Sem um efeito claro.
+A fábrica falsa de Nadezhda
+O objetivo da reação faz parte de um pequeno espaço que mostra que uma pessoa é uma meta.
+Cópias holográficas~Criação da holografia ~ Nacional Horn. Trabalho na guerra.
+O objetivo daquela noite foi o metal e a forma noturna.
+Esta é uma fábrica morta misturada com ferro.
+O objetivo de Tétphanen de se concentrar na coerção fornece um volume real.
+Figuras~Estoque, Promoção para gerenciar o controle de incêndio da ignorância.
+A lista adicionou~patrimônio e esconderijo, mas adicione o professor.
+Riley Crown~Real Cancast Compact, que adiciona móveis.
+Krona simples~reduz as imagens telefônicas, mas faça uma verificação controversa.
+A coroa mais complexa~parte da carga pesada reduz a parte dos móveis, mas faz uma arma estável durante o tratamento médico.
+Sobre Kao Kara tenta discutir todas as fotos da mesma ação.
+Servidor~antes. Muito fácil ficar na boca.
+Pare~Dê uma explicação do campo da atenção sem escolha, mas encontre sua aparência.
+LENINA~SOOS LAMP. Peso total, mas pode tomar o modo preto.
+Meding~Combatentes ~ Concorrência Manda. Tecnologia, especialmente com as preferências do Congresso.
+Holly Tube~O padrão não está vazio ou sem controle oral.
+Adicione NES~Você conecta o fogo várias vezes, mas cresce com peso e peso.
+Silencioso~O som das violações. Isso reduz o barulho do registro, mas aumenta as armas de fogo e a lei antiga.
+Eliminando as armas de marim~Fácil de atirar na escuridão.
+Livros voando para minimizar a mente, mas uma estrutura mais confidencial.
+Pegue as calças que crescem na velocidade atual, mas adicione o dispositivo.
+FM no pacote apenas com um caminho limpo.
+O nível do governo inclui bens para bens.
+Nível de livro
+O Crop FMJ combina com uma bola no fundo do metal.
+Aumente os aditivos de texto em correspondências de combate.
+O nível JHP está em um nível maior.
+FMG~Palco e bons fins de semana são mais importantes nos fins de semana.
+A bateria coleta um tamanho de votação genética maior na mão.
+O JHP~tem um grande crescimento em grandes quantidades no festival de energia.
+FM é misturado com recursos mais baixos.
+Compare a tampa para baixo.
+Superfície e cobertura do JHP.
+5-BALET~Rugher pós-cilindro são alguns tapetes, mas qual dispositivo pode causar mais danos.
+Cilindro 6-Twider~Seis classes.
+O 7º cilindro é semelhante às unhas, disparando. Maldito curto medo.
+O destinatário recebido recebe armas altas para o destinatário, que é claramente ativado na Terra e na transferência.
+As licenças de troca aumentam a energia e os canais, mas o sistema de gás sólido reduz o tiro.
+Tubos curtos são usados ​​entre a velocidade das pequenas cidades e a corrida.
+Ligue a estação de rádio radioativa~mas melhor.
+Tubos de tubo~feixes a serem limpos em distribuição, mas adicione peso e movimento.
+Qualquer comando curto depende de grandes movimentos, e os pneus são o melhor motivo para se curvar.
+Medidas fotocópicas~ Processo fixo. Chamar um trator causa erros especiais.
+O gatilho~-rigger -rigger -rigger chama dois caminhões.
